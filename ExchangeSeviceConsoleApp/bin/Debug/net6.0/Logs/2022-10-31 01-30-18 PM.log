@@ -1,0 +1,10 @@
+2022-10-31 13:30:18,677 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 13:30:18
+2022-10-31 13:30:18,809 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:30:18,810 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 13:29:11.237
+2022-10-31 13:30:19,053 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 13:30:19,973 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 0
+2022-10-31 13:30:19,974 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 13:30:19,977 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:30:19,987 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 13:29:16.322
+2022-10-31 13:30:19,995 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 13:30:41,058 [1] ERROR ExchangeSeviceConsoleApp.Helper.LogHelper LogError - Custom Error :Error Message: The request failed. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. [::ffff:103.149.124.36]:443 (mail.kalpataru.com:443)

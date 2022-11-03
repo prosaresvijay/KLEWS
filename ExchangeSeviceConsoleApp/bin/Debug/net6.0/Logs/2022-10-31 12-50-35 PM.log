@@ -1,0 +1,184 @@
+2022-10-31 12:50:36,904 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started31-10-2022 12:50:36
+2022-10-31 12:50:36,954 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 12:50:36,956 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-29 20:23:17.386
+2022-10-31 12:50:37,090 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 12:50:44,178 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 12:21:18
+2022-10-31 12:50:44,180 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@jmcprojects.com
+2022-10-31 12:50:44,183 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Chandrakant.Mandekar@jmcprojects.com, Surya.Avantsa@jmcprojects.com, Basavaraju.S@jmcprojects.com, Rittyk.Giri@jmcprojects.com, Anshuman.Dike@jmcprojects.com, Sai.Bodla@jmcprojects.com, jaman.kathiria@jmcprojects.com, NavinKumar.Singh@jmcprojects.com, bharat.singh@jmcprojects.com, HITESH.JAIN@jmcprojects.com, mrityunjoy.mahapatra@jmcprojects.com, Amit.Kumar2@jmcprojects.com, kalpana.patankar@jmcprojects.com, mandar.belekar@jmcprojects.com, debasis.chakladar@jmcprojects.com, Vishal.Kohinkar@jmcprojects.com, TESTSPTUser1@kalpataru.com, Atanu.Halder@jmcprojects.com, Sanjeev.Shirke@jmcprojects.com, 
+2022-10-31 12:50:44,183 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 12:50:44,185 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : JMC Vendor Portal: Create Request Failure
+2022-10-31 12:50:44,186 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:44,187 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4FAAA=
+2022-10-31 12:50:47,700 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 12:03:20
+2022-10-31 12:50:47,702 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:47,703 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : gruhiniappliancespune2018@gmail.com, 
+2022-10-31 12:50:47,704 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Vaibhav.Sakpal@kalpataru.com, Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:50:47,705 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Vendor Onboarded
+2022-10-31 12:50:47,707 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:47,708 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4EAAA=
+2022-10-31 12:50:50,127 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 12:02:00
+2022-10-31 12:50:50,159 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : Team.HR@kalpataru.com
+2022-10-31 12:50:50,160 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Group-Kalpataru@kalpataru.com, 
+2022-10-31 12:50:50,161 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 12:50:50,162 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Personalized Kalpataru Diary for 2023
+2022-10-31 12:50:50,163 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:50,163 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4DAAA=
+2022-10-31 12:50:51,571 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 11:51:15
+2022-10-31 12:50:51,573 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:51,575 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Sharvari.Shinde@kalpataru.com, 
+2022-10-31 12:50:51,576 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:50:51,578 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Sent Back by MDM Team KL0000027033
+2022-10-31 12:50:51,579 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:51,581 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4CAAA=
+2022-10-31 12:50:52,997 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 11:47:21
+2022-10-31 12:50:52,999 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:53,000 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Vaibhav.Sakpal@kalpataru.com, 
+2022-10-31 12:50:53,001 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:50:53,001 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Sent Back by MDM Team KL0000027051
+2022-10-31 12:50:53,002 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:53,003 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4BAAA=
+2022-10-31 12:50:54,515 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 11:32:24
+2022-10-31 12:50:54,517 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:54,518 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : lalit.ag786@gmail.com, 
+2022-10-31 12:50:54,519 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Dhavan.Parmar@psipl.co.in, Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:50:54,520 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Vendor Onboarded
+2022-10-31 12:50:54,521 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:54,522 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4AAAA=
+2022-10-31 12:50:56,481 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 11:05:15
+2022-10-31 12:50:56,483 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:56,484 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Dhavan.Parmar@psipl.co.in, 
+2022-10-31 12:50:56,485 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:50:56,486 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Sent Back by MDM Team KL0000027218
+2022-10-31 12:50:56,487 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:56,487 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3/AAA=
+2022-10-31 12:50:58,201 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:48:34
+2022-10-31 12:50:58,246 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:58,247 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:50:58,248 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Meghana.Gunge@kalpataru.com, Vaibhav.Sakpal@kalpataru.com, Ajinkya.Kohad@kalpataru.com, Sanket.Vibhute@kalpataru.com, Suryakant.Waghmare@kalpataru.com, 
+2022-10-31 12:50:58,248 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000027051
+2022-10-31 12:50:58,249 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:58,249 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3+AAA=
+2022-10-31 12:50:59,435 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:47:42
+2022-10-31 12:50:59,438 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:50:59,439 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:50:59,440 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Suresh.Dokras@kalpataru.com, Sameer.Nitsure@kalpataru.com, Sharvari.Shinde@kalpataru.com, Ganesh.Gaddam@kalpataru.com, Sushila.Ram@kalpataru.com, Harsha.Kerkar@kalpataru.com, Mitesh.Kothari@kalpataru.com, 
+2022-10-31 12:50:59,441 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000027033
+2022-10-31 12:50:59,442 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:50:59,443 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd39AAA=
+2022-10-31 12:51:00,860 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:47:17
+2022-10-31 12:51:00,862 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:00,863 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:00,863 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Meghana.Gunge@kalpataru.com, Vaibhav.Sakpal@kalpataru.com, Ajinkya.Kohad@kalpataru.com, Sanket.Vibhute@kalpataru.com, Suryakant.Waghmare@kalpataru.com, 
+2022-10-31 12:51:00,864 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000027209
+2022-10-31 12:51:00,864 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:00,865 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd38AAA=
+2022-10-31 12:51:02,540 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:42:21
+2022-10-31 12:51:02,698 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:02,700 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : noveltystationery2016@gmail.com, 
+2022-10-31 12:51:02,700 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Dhavan.Parmar@psipl.co.in, Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:51:02,701 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Update Request KL0000027059
+2022-10-31 12:51:02,701 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:02,702 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd37AAA=
+2022-10-31 12:51:04,068 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:41:24
+2022-10-31 12:51:04,069 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:04,070 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : punefin@rootsemail.com, 
+2022-10-31 12:51:04,071 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Sagar.Jadhav@psipl.co.in, Swapnil.Kumbharkar@kalpataru.com, Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:51:04,071 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Sent Back by Business SPOC KL0000027238
+2022-10-31 12:51:04,072 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:04,072 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd36AAA=
+2022-10-31 12:51:05,228 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:27:25
+2022-10-31 12:51:05,230 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:05,231 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : amberteaindia@gmail.com, 
+2022-10-31 12:51:05,232 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Sandesh.Khanvilkar@kalpataru.com, Deepak.Chavan@kalpataru.com, TESTSPTUser1@kalpataru.com, Vijay.Palekar@kalpataru.com, Tejas.Dixit@kalpataru.com, 
+2022-10-31 12:51:05,235 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Update Request KL0000026931
+2022-10-31 12:51:05,236 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:05,237 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd35AAA=
+2022-10-31 12:51:06,525 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 10:04:19
+2022-10-31 12:51:06,526 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : SP-SF.Integration.SP16@kalpataru.com
+2022-10-31 12:51:06,527 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Jigar.Gandhi@kalpataru.com, Khorehomand.Irani@kalpataru.com, Dilip.Nikam@kalpataru.com, 
+2022-10-31 12:51:06,529 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : TESTSPTUser2@kalpataru.com, TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:06,529 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : SAPID Excel upload Error Data Details 
+2022-10-31 12:51:06,530 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 12:51:06,531 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd34AAA=
+2022-10-31 12:51:08,819 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 09:16:16
+2022-10-31 12:51:08,822 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@jmcprojects.com
+2022-10-31 12:51:08,823 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Chandrakant.Mandekar@jmcprojects.com, Surya.Avantsa@jmcprojects.com, Basavaraju.S@jmcprojects.com, Rittyk.Giri@jmcprojects.com, Anshuman.Dike@jmcprojects.com, Sai.Bodla@jmcprojects.com, jaman.kathiria@jmcprojects.com, NavinKumar.Singh@jmcprojects.com, bharat.singh@jmcprojects.com, HITESH.JAIN@jmcprojects.com, mrityunjoy.mahapatra@jmcprojects.com, Amit.Kumar2@jmcprojects.com, kalpana.patankar@jmcprojects.com, mandar.belekar@jmcprojects.com, debasis.chakladar@jmcprojects.com, Vishal.Kohinkar@jmcprojects.com, TESTSPTUser1@kalpataru.com, Atanu.Halder@jmcprojects.com, Sanjeev.Shirke@jmcprojects.com, 
+2022-10-31 12:51:08,824 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 12:51:08,825 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : JMC Vendor Portal: Update Request Failure
+2022-10-31 12:51:08,826 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:08,827 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd33AAA=
+2022-10-31 12:51:10,042 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 00:00:16
+2022-10-31 12:51:10,147 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:10,148 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Tejas.Dixit@kalpataru.com, TESTSPTUser1@kalpataru.com, Deepak.Chavan@kalpataru.com, Vijay.Palekar@kalpataru.com, 
+2022-10-31 12:51:10,150 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 12:51:10,151 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Auto Close Pending Requests
+2022-10-31 12:51:10,151 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:10,153 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd32AAA=
+2022-10-31 12:51:11,858 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 22:16:15
+2022-10-31 12:51:11,859 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@psipl.com
+2022-10-31 12:51:11,860 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:11,861 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 12:51:11,861 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : PSIPL Vendor Portal: New Registration Request received PS0000027256
+2022-10-31 12:51:11,862 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:11,863 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd31AAA=
+2022-10-31 12:51:13,244 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 17:01:31
+2022-10-31 12:51:13,246 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : SP-SF.Integration.SP16@kalpataru.com
+2022-10-31 12:51:13,248 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Jigar.Gandhi@kalpataru.com, Khorehomand.Irani@kalpataru.com, Dilip.Nikam@kalpataru.com, 
+2022-10-31 12:51:13,250 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : TESTSPTUser2@kalpataru.com, TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:13,251 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : SAPID Excel upload Error Data Details 
+2022-10-31 12:51:13,253 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 12:51:13,254 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd30AAA=
+2022-10-31 12:51:15,307 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 09:57:01
+2022-10-31 12:51:15,323 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : SP-SF.Integration.SP16@kalpataru.com
+2022-10-31 12:51:15,325 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Jigar.Gandhi@kalpataru.com, Khorehomand.Irani@kalpataru.com, Dilip.Nikam@kalpataru.com, 
+2022-10-31 12:51:15,326 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : TESTSPTUser2@kalpataru.com, TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:15,328 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : SAPID Excel upload Error Data Details 
+2022-10-31 12:51:15,329 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 12:51:15,336 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3zAAA=
+2022-10-31 12:51:18,008 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 07:01:35
+2022-10-31 12:51:18,010 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:18,011 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:18,012 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : TESTSPTUser2@kalpataru.com, Ganesh.Bhosale@psipl.co.in, Amol.Pawar@kalpataru.com, Sandesh.Khanvilkar@kalpataru.com, Bharat.Gawde@kalpataru.com, 
+2022-10-31 12:51:18,012 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000026931
+2022-10-31 12:51:18,014 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:18,015 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3yAAA=
+2022-10-31 12:51:19,185 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 07:01:28
+2022-10-31 12:51:19,186 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:19,187 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:19,187 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Dhavan.Parmar@psipl.co.in, 
+2022-10-31 12:51:19,187 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000027059
+2022-10-31 12:51:19,188 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:19,188 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3xAAA=
+2022-10-31 12:51:20,998 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 07:01:23
+2022-10-31 12:51:21,000 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:21,002 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:21,003 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Dhavan.Parmar@psipl.co.in, 
+2022-10-31 12:51:21,004 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000027227
+2022-10-31 12:51:21,005 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:21,006 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3wAAA=
+2022-10-31 12:51:22,375 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 07:01:18
+2022-10-31 12:51:22,400 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:22,401 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:22,401 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Dhavan.Parmar@psipl.co.in, 
+2022-10-31 12:51:22,402 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000027218
+2022-10-31 12:51:22,402 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:22,403 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3vAAA=
+2022-10-31 12:51:23,511 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 30-10-2022 00:00:17
+2022-10-31 12:51:23,512 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 12:51:23,514 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Tejas.Dixit@kalpataru.com, TESTSPTUser1@kalpataru.com, Deepak.Chavan@kalpataru.com, Vijay.Palekar@kalpataru.com, 
+2022-10-31 12:51:23,514 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 12:51:23,515 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Auto Close Pending Requests
+2022-10-31 12:51:23,516 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 12:51:23,516 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3qAAA=
+2022-10-31 12:51:26,424 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 29-10-2022 20:43:08
+2022-10-31 12:51:26,472 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : Ajay.Sawant@prosares.com
+2022-10-31 12:51:26,473 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Ram.Prasad@kalpataru.com, TESTSPTUser1@kalpataru.com, 
+2022-10-31 12:51:26,474 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : ajay.sawant@dirxhealth.com, 
+2022-10-31 12:51:26,475 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Test email subject
+2022-10-31 12:51:26,475 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 12:51:26,476 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3pAAA=
+2022-10-31 12:51:42,987 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 12:51:43,122 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 12:51:43,695 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-29 20:43:48.174
+2022-10-31 12:51:43,697 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 12:51:45,478 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :ram.prasad@kalpataru.com

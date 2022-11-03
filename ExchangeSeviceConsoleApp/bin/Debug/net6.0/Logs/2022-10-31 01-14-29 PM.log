@@ -1,0 +1,11 @@
+2022-10-31 13:14:30,177 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 13:14:30
+2022-10-31 13:14:30,229 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:14:30,230 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 13:01:48.037
+2022-10-31 13:14:31,054 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 13:14:32,147 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 0
+2022-10-31 13:14:32,154 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 13:14:32,167 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:14:32,192 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 13:01:52.009
+2022-10-31 13:14:32,211 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 13:14:32,651 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 0
+2022-10-31 13:14:32,654 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :ram.prasad@kalpataru.com

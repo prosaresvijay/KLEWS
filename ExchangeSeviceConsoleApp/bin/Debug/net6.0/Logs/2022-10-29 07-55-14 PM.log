@@ -1,0 +1,24 @@
+2022-10-29 19:55:16,567 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started29-10-2022 19:55:16
+2022-10-29 19:55:17,143 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails fromtestsptuser1
+2022-10-29 19:55:20,087 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 29-10-2022 19:44:20
+2022-10-29 19:55:20,093 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : EPM1@ProsaresSolutions.onmicrosoft.com
+2022-10-29 19:55:20,098 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-29 19:55:20,101 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-29 19:55:20,106 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Test automation: from another mail
+2022-10-29 19:55:20,109 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-29 19:55:20,111 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3oAAA=
+2022-10-29 19:55:21,149 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 29-10-2022 19:11:16
+2022-10-29 19:55:21,152 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@jmcprojects.com
+2022-10-29 19:55:21,154 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Chandrakant.Mandekar@jmcprojects.com, Surya.Avantsa@jmcprojects.com, Basavaraju.S@jmcprojects.com, Rittyk.Giri@jmcprojects.com, Anshuman.Dike@jmcprojects.com, Sai.Bodla@jmcprojects.com, jaman.kathiria@jmcprojects.com, NavinKumar.Singh@jmcprojects.com, bharat.singh@jmcprojects.com, HITESH.JAIN@jmcprojects.com, mrityunjoy.mahapatra@jmcprojects.com, Amit.Kumar2@jmcprojects.com, kalpana.patankar@jmcprojects.com, mandar.belekar@jmcprojects.com, debasis.chakladar@jmcprojects.com, Vishal.Kohinkar@jmcprojects.com, TESTSPTUser1@kalpataru.com, Atanu.Halder@jmcprojects.com, Sanjeev.Shirke@jmcprojects.com, 
+2022-10-29 19:55:21,157 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-29 19:55:21,161 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : JMC Vendor Portal: Create Request Failure
+2022-10-29 19:55:21,163 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-29 19:55:21,164 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3nAAA=
+2022-10-29 19:55:22,368 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 29-10-2022 18:56:17
+2022-10-29 19:55:22,371 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@jmcprojects.com
+2022-10-29 19:55:22,375 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Chandrakant.Mandekar@jmcprojects.com, Surya.Avantsa@jmcprojects.com, Basavaraju.S@jmcprojects.com, Rittyk.Giri@jmcprojects.com, Anshuman.Dike@jmcprojects.com, Sai.Bodla@jmcprojects.com, jaman.kathiria@jmcprojects.com, NavinKumar.Singh@jmcprojects.com, bharat.singh@jmcprojects.com, HITESH.JAIN@jmcprojects.com, mrityunjoy.mahapatra@jmcprojects.com, Amit.Kumar2@jmcprojects.com, kalpana.patankar@jmcprojects.com, mandar.belekar@jmcprojects.com, debasis.chakladar@jmcprojects.com, Vishal.Kohinkar@jmcprojects.com, TESTSPTUser1@kalpataru.com, Atanu.Halder@jmcprojects.com, Sanjeev.Shirke@jmcprojects.com, 
+2022-10-29 19:55:22,376 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-29 19:55:22,378 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : JMC Vendor Portal: Create Request Failure
+2022-10-29 19:55:22,380 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-29 19:55:22,381 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd3mAAA=
+2022-10-29 19:55:23,023 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails fromram.prasad@kalpataru.com

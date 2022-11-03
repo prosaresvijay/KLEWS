@@ -1,0 +1,4 @@
+2022-10-31 14:48:23,674 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 14:48:23
+2022-10-31 14:48:23,742 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 14:48:26,285 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 14:33:42.099
+2022-10-31 14:48:31,157 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com

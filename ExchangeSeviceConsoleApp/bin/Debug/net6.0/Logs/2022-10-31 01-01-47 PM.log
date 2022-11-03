@@ -1,0 +1,18 @@
+2022-10-31 13:01:47,968 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 13:01:47
+2022-10-31 13:01:48,034 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:01:48,035 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 12:50:10.644
+2022-10-31 13:01:48,332 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 13:01:49,505 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 1
+2022-10-31 13:01:49,895 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 12:51:17
+2022-10-31 13:01:49,897 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@jmcprojects.com
+2022-10-31 13:01:49,899 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Chandrakant.Mandekar@jmcprojects.com, Surya.Avantsa@jmcprojects.com, Basavaraju.S@jmcprojects.com, Rittyk.Giri@jmcprojects.com, Anshuman.Dike@jmcprojects.com, Sai.Bodla@jmcprojects.com, jaman.kathiria@jmcprojects.com, NavinKumar.Singh@jmcprojects.com, bharat.singh@jmcprojects.com, HITESH.JAIN@jmcprojects.com, mrityunjoy.mahapatra@jmcprojects.com, Amit.Kumar2@jmcprojects.com, kalpana.patankar@jmcprojects.com, mandar.belekar@jmcprojects.com, debasis.chakladar@jmcprojects.com, Vishal.Kohinkar@jmcprojects.com, TESTSPTUser1@kalpataru.com, Atanu.Halder@jmcprojects.com, Sanjeev.Shirke@jmcprojects.com, 
+2022-10-31 13:01:49,900 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 13:01:49,900 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : JMC Vendor Portal: Create Request Failure
+2022-10-31 13:01:49,901 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 13:01:49,902 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4GAAA=
+2022-10-31 13:01:51,995 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 13:01:51,996 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:01:52,008 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 12:50:15.408
+2022-10-31 13:01:52,018 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 13:01:52,471 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 0
+2022-10-31 13:01:52,473 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :ram.prasad@kalpataru.com

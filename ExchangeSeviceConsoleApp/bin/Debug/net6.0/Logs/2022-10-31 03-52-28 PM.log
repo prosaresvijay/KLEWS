@@ -1,0 +1,32 @@
+2022-10-31 15:52:29,773 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 15:52:29
+2022-10-31 15:52:29,799 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 15:52:29,801 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 15:32:06.583
+2022-10-31 15:52:30,503 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 15:52:31,667 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 2
+2022-10-31 15:52:32,073 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 15:40:17
+2022-10-31 15:52:32,079 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 15:52:32,084 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 15:52:32,086 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Johnson.Krishnan@kalpataru.com, 
+2022-10-31 15:52:32,088 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000026942
+2022-10-31 15:52:32,094 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 15:52:32,098 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4LAAA=
+2022-10-31 15:52:34,592 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 15:38:21
+2022-10-31 15:52:34,593 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : noreply-vendorconnect@kalpataru.com
+2022-10-31 15:52:34,593 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 15:52:34,594 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Johnson.Krishnan@kalpataru.com, 
+2022-10-31 15:52:34,594 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Kalpataru Vendor Connect : Registration Request Approved by Cluster/Department Head KL0000026941
+2022-10-31 15:52:34,595 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : No
+2022-10-31 15:52:34,595 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4KAAA=
+2022-10-31 15:52:35,843 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 15:52:35,844 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 15:52:35,954 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 15:32:16.974
+2022-10-31 15:52:35,959 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 15:52:36,372 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 1
+2022-10-31 15:52:36,781 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 15:38:26
+2022-10-31 15:52:36,782 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : Alcide.Coelho@kalpataru.com
+2022-10-31 15:52:36,782 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Everyone@kalpatarugroup.com, 
+2022-10-31 15:52:36,783 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : 
+2022-10-31 15:52:36,783 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Quality Month Calendar | 1st November | Leadership Session
+2022-10-31 15:52:36,784 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 15:52:36,784 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AQMkADg1NzUwNWM3LWYzNDEtNDEzMC1iOTRlLWRjNTc0ZDQ0ADkxMjkARgAAA4gp5kqHclJFtF+ukX2EZKoHABojZ50euRFCrqVR0U4NoFwAAAIBDAAAABojZ50euRFCrqVR0U4NoFwAAAITywAAAA==
+2022-10-31 15:52:54,962 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :ram.prasad@kalpataru.com

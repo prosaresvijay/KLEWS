@@ -1,0 +1,9 @@
+2022-10-31 15:31:59,458 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 15:31:59
+2022-10-31 15:32:00,760 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 15:32:06,582 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 14:48:26.290
+2022-10-31 15:32:07,920 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 15:32:16,523 [1] ERROR ExchangeSeviceConsoleApp.Helper.LogHelper LogError - Custom Error :Error Message: The request failed. The remote server returned an error: (401) Unauthorized.
+2022-10-31 15:32:16,942 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 15:32:16,972 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 14:33:45.590
+2022-10-31 15:32:17,114 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 15:32:19,880 [1] ERROR ExchangeSeviceConsoleApp.Helper.LogHelper LogError - Custom Error :Error Message: The request failed. The remote server returned an error: (401) Unauthorized.

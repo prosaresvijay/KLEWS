@@ -1,0 +1,7 @@
+2022-10-29 20:03:53,149 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started29-10-2022 20:03:53
+2022-10-29 20:03:56,433 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 3
+2022-10-29 20:04:02,534 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-29 19:59:09.446
+2022-10-29 20:04:05,625 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1
+2022-10-29 20:04:13,465 [1] ERROR EmailAutomationTesting.Program Main - Error Message: The request failed. The remote server returned an error: (401) Unauthorized.
+2022-10-29 20:04:18,921 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 3
+2022-10-29 20:04:22,488 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-29 19:57:38.893

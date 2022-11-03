@@ -1,0 +1,25 @@
+2022-10-31 13:29:11,209 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 13:29:11
+2022-10-31 13:29:11,236 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:29:11,236 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 13:27:43.202
+2022-10-31 13:29:11,411 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 13:29:12,150 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 1
+2022-10-31 13:29:12,564 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 13:28:57
+2022-10-31 13:29:12,664 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : Vijay.Shetalwar@prosares.com
+2022-10-31 13:29:12,669 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, Ram.Prasad@kalpataru.com, 
+2022-10-31 13:29:12,671 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : vijay9665126031@gmail.com, 
+2022-10-31 13:29:12,675 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Final Test EWS App 
+2022-10-31 13:29:12,676 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 13:29:12,677 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4HAAA=
+2022-10-31 13:29:16,314 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 13:29:16,315 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 13:29:16,321 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 13:27:53.301
+2022-10-31 13:29:16,327 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 13:29:16,641 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 1
+2022-10-31 13:29:17,091 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 13:28:58
+2022-10-31 13:29:17,092 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : Vijay.Shetalwar@prosares.com
+2022-10-31 13:29:17,092 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, Ram.Prasad@kalpataru.com, 
+2022-10-31 13:29:17,093 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : vijay9665126031@gmail.com, 
+2022-10-31 13:29:17,093 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Final Test EWS App 
+2022-10-31 13:29:17,094 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 13:29:17,095 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AQMkADg1NzUwNWM3LWYzNDEtNDEzMC1iOTRlLWRjNTc0ZDQ0ADkxMjkARgAAA4gp5kqHclJFtF+ukX2EZKoHABojZ50euRFCrqVR0U4NoFwAAAIBDAAAABojZ50euRFCrqVR0U4NoFwAAAITxwAAAA==
+2022-10-31 13:29:19,458 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :ram.prasad@kalpataru.com

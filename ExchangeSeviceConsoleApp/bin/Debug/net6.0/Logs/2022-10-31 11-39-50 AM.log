@@ -1,0 +1,4 @@
+2022-10-31 11:39:53,050 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started31-10-2022 11:39:53
+2022-10-31 11:39:56,435 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 11:39:58,935 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-29 20:23:17.386
+2022-10-31 11:40:15,779 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-29 20:43:24.282

@@ -1,0 +1,25 @@
+2022-10-31 14:13:44,157 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Process Started : 31-10-2022 14:13:44
+2022-10-31 14:13:44,211 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 14:13:44,213 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 14:00:50.519
+2022-10-31 14:13:44,427 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : testsptuser1@kalpataru.com
+2022-10-31 14:13:46,087 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 1
+2022-10-31 14:13:46,795 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 14:12:30
+2022-10-31 14:13:46,797 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : ajay.sawant@dirxhealth.com
+2022-10-31 14:13:46,798 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : TESTSPTUser1@kalpataru.com, 
+2022-10-31 14:13:46,799 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : Rajendra.Gawthe@prosares.com, 
+2022-10-31 14:13:46,800 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Test Email 1
+2022-10-31 14:13:46,801 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 14:13:46,802 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AAMkADNlMjk5N2EyLThlMjUtNDQ1Zi05NTIxLWQ4OTM2NWE1Mjk0ZQBGAAAAAADUoAYFht2yQJl20nY7rXfmBwDMCJX7BKh4S43HHAGRzHIbAAAAAAEMAADMCJX7BKh4S43HHAGRzHIbAAS+kd4IAAA=
+2022-10-31 14:13:49,549 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :testsptuser1@kalpataru.com
+2022-10-31 14:13:49,550 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Source Emails : 2
+2022-10-31 14:13:49,561 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Last Sync Date : 2022-10-31 14:00:54.545
+2022-10-31 14:13:49,568 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Reading mails from : ram.prasad@kalpataru.com
+2022-10-31 14:13:50,189 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Total Emails Found : 1
+2022-10-31 14:13:50,887 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Date Time Received : 31-10-2022 14:12:47
+2022-10-31 14:13:50,888 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - From Address : ajay.sawant@dirxhealth.com
+2022-10-31 14:13:50,890 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - ToRecipients : Ram.Prasad@kalpataru.com, 
+2022-10-31 14:13:50,892 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - CcRecipients : helpdesk@prosares.com, arun.raut@prosares.com, 
+2022-10-31 14:13:50,892 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Subject : Test Email 2
+2022-10-31 14:13:50,893 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Attachments : Yes
+2022-10-31 14:13:50,893 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - Message Id: AQMkADg1NzUwNWM3LWYzNDEtNDEzMC1iOTRlLWRjNTc0ZDQ0ADkxMjkARgAAA4gp5kqHclJFtF+ukX2EZKoHABojZ50euRFCrqVR0U4NoFwAAAIBDAAAABojZ50euRFCrqVR0U4NoFwAAAITyAAAAA==
+2022-10-31 14:13:53,868 [1] INFO  ExchangeSeviceConsoleApp.Helper.LogHelper LogMessage - **Completed Reading mails For :ram.prasad@kalpataru.com

@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\R & d\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\R & d\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\R & d\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp.csproj",
+        "projectName": "ExchangeSeviceConsoleApp",
+        "projectPath": "D:\\R & d\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\R & d\\ExchangeSeviceConsoleApp\\ExchangeSeviceConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[29.0.0, )"
+            },
+            "Exchange.WebServices.Managed.Api": {
+              "target": "Package",
+              "version": "[2.2.1.2, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
